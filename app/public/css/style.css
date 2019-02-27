@@ -1,0 +1,47 @@
+/* font-family: 'Bubblegum Sans', cursive;
+font-family: 'Roboto', sans-serif; */
+
+h4 {
+  font-family: 'Bubblegum Sans', cursive;
+}
+
+body {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+  background-color: lightgoldenrodyellow;
+}
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+  color: black;
+  height: auto;
+}
+
+img {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+}
+
+.container2 {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+footer {
+  padding: 30px;
+  clear: both;
+  font-size: 12px;
+  text-align: center;
+  height: 50px;
+}
