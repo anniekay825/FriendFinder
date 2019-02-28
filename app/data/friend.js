@@ -1,6 +1,6 @@
 var friendList = [{
     name: 'Monica Geller',
-    profilePic: "https://github.com/anniekay825/FriendFinder/blob/master/app/public/images/monica.jpg",
+    profilePic: "../images/monica.jpg",
     scores: [
       "5",
       "3",
@@ -16,7 +16,7 @@ var friendList = [{
   },
   {
     name: 'Rachel Green',
-    profilePic: "https://github.com/anniekay825/FriendFinder/blob/master/app/public/images/rachel.jpg",
+    profilePic: "../images/rachel.jpg",
     scores: [
       "1",
       "4",
@@ -32,7 +32,7 @@ var friendList = [{
   },
   {
     name: 'Ross Geller',
-    profilePic: "app/public/images/ross.jpg",
+    profilePic: "../images/ross.jpg",
     scores: [
       "4",
       "4",
@@ -48,7 +48,7 @@ var friendList = [{
   },
   {
     name: 'Joey Tribbiani',
-    profilePic: "app/public/images/joey.jpg",
+    profilePic: "../images/joey.jpg",
     scores: [
       "1",
       "2",
@@ -58,6 +58,38 @@ var friendList = [{
       "3",
       "5",
       "1",
+      "5",
+      "5"
+    ]
+  },
+  {
+    name: 'Chandler Bing',
+    profilePic: "../images/chandler.jpg",
+    scores: [
+      "4",
+      "3",
+      "4",
+      "2",
+      "5",
+      "1",
+      "3",
+      "3",
+      "5",
+      "5"
+    ]
+  },
+  {
+    name: 'Phoebe Buffay',
+    profilePic: "../images/phoebe.jpg",
+    scores: [
+      "3",
+      "4",
+      "3",
+      "3",
+      "3",
+      "5",
+      "3",
+      "2",
       "5",
       "5"
     ]
