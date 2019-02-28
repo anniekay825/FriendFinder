@@ -1,6 +1,6 @@
 var friendList = [{
     name: 'Monica Geller',
-    profilePic: "../images/monica.jpg",
+    profilePic: "/app/public/images/monica.jpg",
     scores: [
       "5",
       "3",
@@ -16,7 +16,7 @@ var friendList = [{
   },
   {
     name: 'Rachel Green',
-    profilePic: "../images/rachel.jpg",
+    profilePic: "/app/public/images/rachel.jpg",
     scores: [
       "1",
       "4",
@@ -32,7 +32,7 @@ var friendList = [{
   },
   {
     name: 'Ross Geller',
-    profilePic: "../images/ross.jpg",
+    profilePic: "/app/public/images/ross.jpg",
     scores: [
       "4",
       "4",
@@ -48,7 +48,7 @@ var friendList = [{
   },
   {
     name: 'Joey Tribbiani',
-    profilePic: "../images/joey.jpg",
+    profilePic: "/app/public/images/joey.jpg",
     scores: [
       "1",
       "2",
@@ -64,7 +64,7 @@ var friendList = [{
   },
   {
     name: 'Chandler Bing',
-    profilePic: "../images/chandler.jpg",
+    profilePic: "/app/public/images/chandler.jpg",
     scores: [
       "4",
       "3",
@@ -80,7 +80,7 @@ var friendList = [{
   },
   {
     name: 'Phoebe Buffay',
-    profilePic: "../images/phoebe.jpg",
+    profilePic: "/app/public/images/phoebe.jpg",
     scores: [
       "3",
       "4",
